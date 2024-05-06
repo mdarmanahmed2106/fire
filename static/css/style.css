@@ -59,3 +59,13 @@ nav ul li{
     font-weight: bold;
 
 }
+.hero-image {
+  
+  background-image:  url("hero_img.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+	opacity:0.5;
+}
