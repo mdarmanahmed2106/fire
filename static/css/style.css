@@ -1,4 +1,4 @@
-/* Custom Stylesheet */
+	/* Custom Stylesheet */
 /**
  * Use this file to override Materialize files so you can update
  * the core Materialize files in the future
@@ -55,7 +55,7 @@ nav ul{
 }
 nav ul li{
     display: inline-block;
-    color: #b25043;
+    color: #ff8c1a;
     font-weight: bold;
 
 }
